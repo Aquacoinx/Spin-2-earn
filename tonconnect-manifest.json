@@ -1,10 +1,7 @@
 {
-  "manifest_version": "0.1.0",
-  "name": "My TON Wallet App",
-  "description": "Connect your wallet to send TON or AquaCoin",
-  "url": "http://localhost:5173", // or your production URL
-  "icons": ["https://raw.githubusercontent.com/ton-blockchain/ton-assets/master/icons/ton.svg"],
-  "bridge": {
-    "type": "tonconnect"
-  }
+  "url": "https://wallet.tonkeeper.com/",
+  "name": "TON Wallet App",
+  "iconUrl": "https://ton.org/favicon.ico",
+  "termsUrl": "https://ton.org/terms",
+  "privacyPolicyUrl": "https://ton.org/privacy"
 }
