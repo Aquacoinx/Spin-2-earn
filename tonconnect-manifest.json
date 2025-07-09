@@ -1,7 +1,7 @@
 {
   "url": "https://wallet.tonkeeper.com/",
   "name": "TON Wallet App",
-  "iconUrl": "http://localhost:5173/coin.png",
+  "iconUrl": "https://aquacoinx.github.io/Spin-2-earn/icon.png",
   "termsUrl": "https://ton.org/terms",
   "privacyPolicyUrl": "https://ton.org/privacy"
 }
