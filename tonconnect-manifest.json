@@ -1,0 +1,7 @@
+{
+  "url": "https://wallet.tonkeeper.com/",
+  "name": "TON Wallet App",
+  "iconUrl": "http://localhost:5173/coin.png",
+  "termsUrl": "https://ton.org/terms",
+  "privacyPolicyUrl": "https://ton.org/privacy"
+}
